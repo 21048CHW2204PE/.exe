@@ -1,4 +1,4 @@
 1.an              2024.11.21 add soil spring
 2.ab              origin
-3.windturbjk3     2024.12.03
+3.windturbjk3     2024.12.19 change seismic load format(stable)
 4.agok            2024.11.19
